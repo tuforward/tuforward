@@ -39,6 +39,8 @@
 -   [Phần 3](https://github.com/tuforward/learn-javascript-level-02)
 -   [Phần 4](https://github.com/tuforward/learn-javascript-level-03)  
 -   [Phần 5](https://github.com/tuforward/learn-javascript-level-04)  
+-   [Phần 6](https://github.com/tuforward/learn-javascript-level-04)  
+-   [Phần 7](https://github.com/tuforward/learn-javascript-level-04)  
 -   [Câu hỏi phỏng vấn](https://github.com/tuforward/javascript-interview)  
 -   [Clean Code](https://github.com/tuforward/clean-code-javascript)  
 
