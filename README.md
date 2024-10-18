@@ -31,3 +31,23 @@
 | [Pet Shop](https://github.com/tuforward/pet-shop-pug-bem-scss)    | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=pug,scss)](https://skillicons.dev) | Chuẩn BEM 
 | [Clothes Shop](https://github.com/tuforward/clothes-shop-tailwind)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=html,tailwind)](https://skillicons.dev) 
 | [Admin](https://github.com/tuforward/admin-full-page)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=pug,scss,javascript)](https://skillicons.dev) | Chuẩn BEM, Trang quản trị
+
+---
+## [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) HỌC JAVASCRIPT
+-   [Phần 1](https://github.com/tuforward/learn-javascript-level-00)
+-   [Phần 2](https://github.com/tuforward/learn-javascript-level-01)
+-   [Phần 3](https://github.com/tuforward/learn-javascript-level-02)
+-   [Phần 4](https://github.com/tuforward/learn-javascript-level-03)  
+-   [Câu hỏi phỏng vấn](https://github.com/tuforward/javascript-interview)  
+-   [Clean Code](https://github.com/tuforward/clean-code-javascript)  
+
+
+## [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) HỌC FIREBASE
+-   [Cheat Sheet]()
+
+## [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) HỌC DOCKER
+-   [Cheat Sheet](https://github.com/tuforward/docker-cheat-sheet)
+
+## [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) HỌC GIT
+-   [Cheat Sheet]()
+
