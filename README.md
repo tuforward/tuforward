@@ -31,6 +31,7 @@
 | [Pet Shop](https://github.com/tuforward/pet-shop-pug-bem-scss)    | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=pug,scss)](https://skillicons.dev) | Chuẩn BEM 
 | [Clothes Shop](https://github.com/tuforward/clothes-shop-tailwind)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=html,tailwind)](https://skillicons.dev) 
 | [Admin](https://github.com/tuforward/admin-full-page)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=pug,scss,javascript)](https://skillicons.dev) | Chuẩn BEM, Trang quản trị
+| [Todo App](https://github.com/tuforward/todo-app-firebase)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,firebase)](https://skillicons.dev) | Chuẩn BEM
 
 ---
 ## [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) HỌC JAVASCRIPT
